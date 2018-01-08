@@ -1,1 +1,1 @@
-## Dooray > Calendar > 개요
+## Dooray > Calendar > Overview

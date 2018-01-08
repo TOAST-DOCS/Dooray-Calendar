@@ -1,1 +1,1 @@
-## Dooray > Calendar > 릴리스 노트
+## Dooray > Calendar > Release Notes
