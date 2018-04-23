@@ -1,4 +1,4 @@
-## Dooray > Calendar > Release Notes
+## Dooray! > Calendar > Release Notes
 
 ### 2018.01.15
 #### 기능 추가
