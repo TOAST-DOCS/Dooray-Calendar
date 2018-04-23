@@ -1,4 +1,4 @@
-## Dooray > Calendar > Service Guide
+## Dooray! > Calendar > Service Guide
  
 ### 캘린더 추가
 #### 내 캘린더 추가
