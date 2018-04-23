@@ -1,4 +1,4 @@
-## Dooray > Calendar > Overview
+## Dooray! > Calendar > Overview
 ## Calendar 개요
 기본 적인 캘린더 기능은 물론, 프로젝트 캘린더를 제공하여 내 일정과 프로젝트 일정을 한번에 관리 할 수 있습니다. 
 또한 국내 유일  CalDAV 읽기/쓰기 기능 지원으로 외부 캘린더의 일정을 모아서 확인 할 수 있습니다.
