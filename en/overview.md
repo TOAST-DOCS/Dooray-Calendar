@@ -1,18 +1,18 @@
-## Dooray! > Calendar > Overview
-## Calendar 개요
-기본 적인 캘린더 기능은 물론, 프로젝트 캘린더를 제공하여 내 일정과 프로젝트 일정을 한번에 관리 할 수 있습니다. 
-또한 국내 유일  CalDAV 읽기/쓰기 기능 지원으로 외부 캘린더의 일정을 모아서 확인 할 수 있습니다.
+﻿## Dooray! > Calendar > Overview
+## Calendar Overview
+Calendar provides not only basic calendar features but also Project Calendar so that you can manage you and your project schedule at once. 
+In addition, supporting the only CalDAV read/write features in this country, it allows you to gather all external schedules and view them in one place.
 
-## 서비스 설명
-- 다양한 캘린더 뷰(일간/주간/월간 등)를 통해 보다 편리하게 일정을 관리 할 수 있습니다.
-- 일정 등록 및 편집 화면에서 참석자 일정을 바로 확인하고 모두 참석 가능한 시간을 추천 받을 수 있습니다.
-- 간단 일정 등록 화면에서 빠르고 쉽게 일정을 만들고 초대할 수 있습니다.  
-- 메일과 캘린더 앱 알림을 통해 일정 알림을 받을 수 있으며, 스트림과 메신저에서도 일정 초대, 변경 알림을 제공합니다.
-- 캘린더를 원하는 멤버와 공유하여 사용하거나, 위임 기능을 이용할 수 있습니다.
+## Service Description
+- Various calendar views (daily/weekly/monthly) allow you to manage your schedule much easier.
+-  Register and Edit Schedule screens allows you to view the participants' schedules and get recommendation of the time when all participants are available.
+- Quick Register Schedule screen allows you to create a schedule and invite participants quickly and easily.  
+- Notifications from Mail and Calendar apps provides schedule notifications and Messenger apps and stream also provide invitations to schedule and change notifications.
+- Calendar can be shared with or delegated to the specified members.
 
-## 특장점
-- 국내 유일 CalDAV 연동을 통한 읽기, 쓰기를 지원합니다. 
-- 공유 캘린더는 물론, 위임 캘린더 기능도 제공합니다.
-- 참여하고 있는 프로젝트의 업무 일정을 캘린더에서 바로 확인 할 수 있습니다.
-- 바 캘린더를 통해 Dooray 내 다른 서비스에서도 오늘의 일정을 상시 확인 할 수 있습니다.
-- 일정 메일, 캘린더 앱 Push 알림 외에도 스트림을 통해 일정 초대/변경 알림을 확인 할 수 있습니다.
+## Benefits
+-  Supports the only CalDAV read/write in the domestic regions. 
+-  Provides calendar sharing and delegation features.
+-  Shows the work schedule of the project assigned on the Calendar at a glimpse.
+-  Provides Bar Calendar so that you can see today's schedule in other Dooray services at all times.
+-  Provides push notifications from the Calendar Mails and Calendar App as well as stream that sends invitations and notifies changes in schedule.
