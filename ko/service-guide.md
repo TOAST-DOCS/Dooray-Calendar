@@ -4,12 +4,13 @@
 #### 내 캘린더 추가
 좌측 목록 > 내 캘린더에서 + 버튼을 선택하면 캘린더를 추가로 만들 수 있습니다. 
 캘린더 추가 화면에서 캘린더 이름과 색상을 선택하고 알림 설정할 수 있습니다. 공유 멤버를 추가하지 않고 등록하면 일반 캘린더로 생성되고 공유 멤버를 추가하면 공유 캘린더로 생성됩니다. (공유 캘린더는 캘린더 목록에서 ‘[공유]캘린더명’ 형태로 표시됩니다.)
-![캘린더 추가](http://static.toastoven.net/prod_dooray_calendar/10_mail_mxRecord.png)
+
+![캘린더 추가](http://static.toastoven.net/prod_dooray_calendar/Calendar_01_ko.png)
 
 #### 프로젝트 캘린더 추가
 캘린더에서 프로젝트의 일정을 체크하고 싶다면, 프로젝트 설정 화면에서 캘린더 연동 ‘사용함’을 선택해 주세요. (프로젝트 설정은 해당 프로젝트의 관리자 권한만 가능합니다.) 프로젝트 캘린더를 설정하면, 캘린더에서 해당 프로젝트의 마일스톤과 업무의 완료일을 확인할 수 있습니다.
-![캘린더 추가](http://static.toastoven.net/prod_dooray_calendar/10_mail_mxRecord.png)
-![캘린더 추가](http://static.toastoven.net/prod_dooray_calendar/10_mail_mxRecord.png)
+
+![캘린더 추가](http://static.toastoven.net/prod_dooray_calendar/Calendar_02_ko.png)
 
 ### 일정 등록 
 #### 새 일정 등록
@@ -22,11 +23,13 @@
 - 선택한 시간 : 일정 등록/편집 시 선택한 시간을 제공합니다. 원하는 시간대로 다시 시간을 변경할 수 있습니다.
 - 추천 시간 : 참석자들의 등록된 일정이 가장 적은 시간대를 추천합니다.
   이때 참석자들의 근무 시간이 설정된 경우, 이 부분도 반영하여 추천합니다.
-![캘린더 추가](http://static.toastoven.net/prod_dooray_calendar/10_mail_mxRecord.png)
+
+![캘린더 추가](http://static.toastoven.net/prod_dooray_calendar/Calendar_03_ko.png)
  
 ### 일정 간편 등록
 캘린더 일간/주간/월간 뷰에서 원하는 시간대를 선택(클릭) 하거나 드래그해 일정을 간편하게 등록할 수 있습니다. 일정 간편 쓰기 창에서는 일정 제목 만 입력해도 등록이 가능하며, 이외에 캘린더 선택, 일정 시간, 참석자, 장소 입력도 가능합니다. 참석자에는 일반 멤버뿐 만 아니라, DL(메일), 멤버 그룹(프로젝트), 외부 메일도 추가 할 수 있습니다.
-![캘린더 추가](http://static.toastoven.net/prod_dooray_calendar/10_mail_mxRecord.png)
+
+![캘린더 추가](http://static.toastoven.net/prod_dooray_calendar/Calendar_04_ko.png)
 
 ### 일정 옵션 
 
@@ -51,7 +54,8 @@
 #### 화상회의
 일정에 '화상 회의(Roundee)' 옵션을 활용하여 참석자들과 화상 회의를 진행할 수 있습니다. 최대 6명까지 참여할 수 있으며 제한 시간은 없습니다. 
 화상 회의에서 제공하는 다양한 회의 도구를 활용하여 협업을 해보세요. 
-![캘린더 추가](http://static.toastoven.net/prod_dooray_calendar/10_mail_mxRecord.png)
+
+![캘린더 추가](http://static.toastoven.net/prod_dooray_calendar/Calendar_05_ko.png)
 
 ### 일정 편집 
 편집하고자 하는 일정을 선택합니다. 일정을 등록한 사람은 모든 항목을 직접 수정할 수 있지만, 일정을 초대받은 참석자는 다름 참석자를 추가만 가능하며, 
@@ -94,7 +98,8 @@ Dooray! 캘린더는 일간, 주간, 월간, 2주, 3주 뷰를 제공합니다. 
 - 공유 받은 캘린더에 멤버를 초대하거나 삭제할 수 있습니다.
 
 캘린더를 위임하려면, 원하는 캘린더의 설정 화면에서 위임 멤버를 추가하고 마스터 대신 일정 관리 권한을 부여합니다.
-![캘린더 추가](http://static.toastoven.net/prod_dooray_calendar/10_mail_mxRecord.png)
+
+![캘린더 추가](http://static.toastoven.net/prod_dooray_calendar/Calendar_06_ko.png)
  
 #### 공유 캘린더 탈퇴
 공유 캘린더의 경우, 캘린더 탈퇴가 가능합니다.
@@ -127,19 +132,24 @@ Dooray! 캘린더는 일간, 주간, 월간, 2주, 3주 뷰를 제공합니다. 
 ### CalDAV 설정
 Dooray 캘린더 일정을 CalDAV 설정하여 이용하시려면, 연동하시려는 캘린더 클라이언트의 CalDAV 계정 추가(설정) 화면에 CalDAV 설정 정보를 등록하시면 됩니다. 
 <br>CalDAV 설정에 필요한 정보는 Dooray 설정 > 캘린더 > CalDAV 메뉴에서 확인하실 수 있습니다. 
-![캘린더 추가](http://static.toastoven.net/prod_dooray_calendar/10_mail_mxRecord.png)
-<br>참고로, CalDAV 비밀번호는 두레이 로그인시 사용하는 비밀번호가 아닌, CalDAV용으로 새롭게 발급된 비밀번호입니다. CalDAV 메뉴에서 확인하고 입력해 주시고, 비밀번호는 변경이 필요한 경우 언제든지 해당 메뉴에서 새로운 비밀번호를 발급받아 이용할 수 있습니다.
+
+![캘린더 추가](http://static.toastoven.net/prod_dooray_calendar/Calendar_07_ko.png)
+
+<br>참고로, CalDAV 비밀번호는 두레이 로그인시 사용하는 비밀번호가 아닌, CalDAV용으로 새롭게 발급된 비밀번호입니다. CalDAV 메뉴에서 확인하고 입력해 
+주시고, 비밀번호는 변경이 필요한 경우 언제든지 해당 메뉴에서 새로운 비밀번호를 발급받아 이용할 수 있습니다.
 
 ### 일정 가져오기
 다른 외부 캘린더의 일정을 Dooray! 캘린더에 옮겨오고 싶다면, 일정 가져오기 기능을 이용하시면 됩니다.등록하기 원하는 캘린더의 설정 화면에서 [가져오기] 버튼을 선택하거나 캘린더 좌측 메뉴에서 원하는 캘린더의 설정 메뉴에서 [가져오기]를 선택하시면 일정 가져오기 화면이 제공됩니다. 일정 가져오기 화면에 다음 외부 캘린더에서 다운 받은 iCal 파일을 첨부하고 가져오기를 진행하면 해당 캘린더에 일정이 등록됩니다. 
-![캘린더 추가](http://static.toastoven.net/prod_dooray_calendar/10_mail_mxRecord.png)
+
+![캘린더 추가](http://static.toastoven.net/prod_dooray_calendar/Calendar_08_ko.png)
 
 ### 프로젝트 캘린더
 캘린더에서 프로젝트의 일정을 체크하고 싶다면, 프로젝트 설정을 통해 프로젝트 캘린더를 선택해보세요. 프로젝트 설정에서 프로젝트 캘린더를 [사용함]으로 선택하여 원하는 프로젝트의 일정을 캘린더에서 확인할 수 있습니다. (프로젝트 설정은 해당 프로젝트의 관리자 권한만 확인할 수 있습니다.) 프로젝트 캘린더를 설정하면, 캘린더에서 해당 프로젝트의 마일스톤과 업무의 완료일을 확인할 수 있습니다.
 
 ### 바 캘린더
 Dooray! 웹 서비스 하단 푸터 영역에 '바 캘린더' 가 제공됩니다. 바 캘린더를 통해 기본 캘린더에 등록된 오늘 일정을 바로 확인할 수 있습니다. 일정이 있는 시간대는 별도 색상으로 표시되며, 색상이 있는 시간대를 선택하면 해당 일정을 확인할 수 있습니다. 바 캘린더 설정은 설정 > 일반 화면에서 확인하실 수 있습니다.(바 캘린더 영역에 설정 아이콘을 선택하면 아래 설정 화면을 바로 확인할 수 있습니다.)
-![캘린더 추가](http://static.toastoven.net/prod_dooray_calendar/10_mail_mxRecord.png)
+
+![캘린더 추가](http://static.toastoven.net/prod_dooray_calendar/Calendar_09_ko.png)
 
 ### 캘린더 구독
 
@@ -147,12 +157,14 @@ Dooray! 웹 서비스 하단 푸터 영역에 '바 캘린더' 가 제공됩니�
 1. Dooray! 캘린더에서 구독할 캘린더의 ical형식 URL 복사
     - ‘이 캘린더 설정’ Click 
     - ‘On’ 버튼 Click 후 ‘공개 캘린더 ical 형식 URL 복사
-![캘린더 추가](http://static.toastoven.net/prod_dooray_calendar/10_mail_mxRecord.png)
+
+![캘린더 추가](http://static.toastoven.net/prod_dooray_calendar/Calendar_10_ko.png)
 
 2.	구글 캘린더에서 구독 URL 추가 
     - 친구의 캘린더 추가하기에서 ‘+’ Click  ‘URL로 추가’ Click 
     - Dooray! 캘린더에서 복사한 ical형식의ULR 추가
-![캘린더 추가](http://static.toastoven.net/prod_dooray_calendar/10_mail_mxRecord.png)
+
+![캘린더 추가](http://static.toastoven.net/prod_dooray_calendar/Calendar_11_ko.png)
 
 #### 구글 캘린더를 Dooray! 캘린더에서 구독
 1. 구글 캘린더에서 구독 URL 복사
@@ -163,4 +175,5 @@ Dooray! 웹 서비스 하단 푸터 영역에 '바 캘린더' 가 제공됩니�
 2. Dooray! 캘린더에서 구독 URL 추가
     - 구독 캘린더 추가 Click 
     - 캘린더 URL 추가
-![캘린더 추가](http://static.toastoven.net/prod_dooray_calendar/10_mail_mxRecord.png)
+
+![캘린더 추가](http://static.toastoven.net/prod_dooray_calendar/Calendar_12_ko.png)
