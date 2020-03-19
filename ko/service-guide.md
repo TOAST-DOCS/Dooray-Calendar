@@ -163,6 +163,9 @@ Dooray! 웹 서비스 하단 푸터 영역에 '바 캘린더' 가 제공됩니�
 
 ![캘린더 추가](http://static.toastoven.net/prod_dooray_calendar/Calendar_11_ko.png)
 
+- 동기화 주기  
+    - 즉시 될 때와 늦어진다면 1시간 소요되지만 [ 구글 캘린더 동기화 주기 안내](https://support.google.com/calendar/answer/37100?hl=en&ref_topic=1672445)에는 최대 12시간 소요로 안내되어 있습니다. 
+
 #### 구글 캘린더를 Dooray! 캘린더에서 구독
 1. 구글 캘린더에서 구독 URL 복사
     - 내 캘린더 오른쪽에 있는 “점 3개＂Click  ‘설정 및 공유’ Click 
@@ -174,3 +177,6 @@ Dooray! 웹 서비스 하단 푸터 영역에 '바 캘린더' 가 제공됩니�
     - 캘린더 URL 추가
 
 ![캘린더 추가](http://static.toastoven.net/prod_dooray_calendar/Calendar_12_ko.png)
+
+- 동기화 주기  
+    - 5분 주기로 동기화 됩니다.
